@@ -1,5 +1,7 @@
 package com.octest.beans;
 
+
+
 class Compte {
 	private static int compteur = 123268 ; 
 	private final  int num_compt;
