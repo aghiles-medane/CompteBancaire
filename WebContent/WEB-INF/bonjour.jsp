@@ -11,6 +11,6 @@
     <%
     out.println("hello");
     %>
-        <p>hello depuis vonjour jsp</p>
+        <p>hello depuis bonjour jsp</p>
     </body>
 </html>
